@@ -1,4 +1,3 @@
-
 # 📚 Network Monitoring Tools in Cloud Computing: Analysis, Challenges, and Solutions
 
 ## 📄 Abstract
@@ -6,7 +5,7 @@ A summary of the thesis, highlighting the importance of network monitoring in cl
 
 ## 🏁 Chapter 1: Introduction
 1.1 🎯 Background  
-1.2 🌟 Importance of Network Monitoring in Cloud Computing  
+1.2 🌟 Importance of Network Monitoring in Cloud Computing
 1.3 📝 Objectives of the Thesis  
 1.4 📑 Structure of the Thesis  
 
@@ -28,10 +27,14 @@ A summary of the thesis, highlighting the importance of network monitoring in cl
    - 4.2.1 📈 Prometheus
    - 4.2.2 🚦 Nagios
    - 4.2.3 🖥 Zabbix
+   - 4.2.4 📊 Grafana LGTM Stack (Loki, Grafana, Tempo, Mimir)
+   - 4.2.5 📂 ELK Stack (Elasticsearch, Logstash, Kibana)
 4.3 💼 Commercial Tools
    - 4.3.1 🛡 AWS CloudWatch
    - 4.3.2 🔍 Microsoft Azure Monitor
    - 4.3.3 🌐 Google Cloud Monitoring
+   - 4.3.4 📊 Datadog
+   - 4.3.5 🌐 SolarWinds
 4.4 ⚖️ Comparison of Tools  
 
 ## 📊 Chapter 5: Case Studies
@@ -60,12 +63,38 @@ A summary of the thesis, highlighting the importance of network monitoring in cl
 8.4 🏁 Final Thoughts and Recommendations  
 
 ## 📚 References
-- Comprehensive list of all sources cited in the thesis.
-- [Prometheus Documents](https://prometheus.io/docs/introduction/overview/)
 
-## 📎 Appendices
-- A. 📈 Additional Data and Graphs  
-- B. ⚙️ Tool Configuration Details  
-- C. 📝 Survey/Interview Questionnaires (if applicable)  
+1. **Prometheus**
+   - Official Documentation: [Prometheus Docs](https://prometheus.io/docs/)
 
-This format should be easy to paste into GitHub Markdown.
+2. **Nagios**
+   - Official Documentation: [Nagios Docs](https://www.nagios.org/documentation/)
+
+3. **Zabbix**
+   - Official Documentation: [Zabbix Docs](https://www.zabbix.com/documentation/current/manual)
+
+4. **AWS CloudWatch**
+   - Official Documentation: [AWS CloudWatch Docs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+
+5. **Microsoft Azure Monitor**
+   - Official Documentation: [Azure Monitor Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/)
+
+6. **Google Cloud Monitoring**
+   - Official Documentation: [Google Cloud Monitoring Docs](https://cloud.google.com/monitoring/docs)
+
+7. **Grafana LGTM Stack**
+   - Grafana: [Grafana Docs](https://grafana.com/docs/grafana/latest/)
+   - Loki: [Loki Docs](https://grafana.com/docs/loki/latest/)
+   - Tempo: [Tempo Docs](https://grafana.com/docs/tempo/latest/)
+   - Mimir: [Mimir Docs](https://grafana.com/docs/mimir/latest/)
+
+8. **ELK Stack**
+   - Elasticsearch: [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+   - Logstash: [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/index.html)
+   - Kibana: [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/index.html)
+
+9. **Datadog**
+   - Official Documentation: [Datadog Docs](https://docs.datadoghq.com/)
+
+10. **SolarWinds**
+    - Official Documentation: [SolarWinds Docs](https://documentation.solarwinds.com/en/success_center/orionplatform/content/core-oriondocumentationhome.htm)
