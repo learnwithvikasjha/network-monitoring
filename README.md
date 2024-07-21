@@ -22,20 +22,20 @@ A summary of the thesis, highlighting the importance of network monitoring in cl
 3.4 ⚠️ Challenges in Cloud Network Monitoring  
 
 ## 🔍 Chapter 4: Analysis of Network Monitoring Tools
-4.1 📋 Criteria for Evaluation  
-4.2 🆓 Open-source Tools
+- 4.1 📋 Criteria for Evaluation  
+- 4.2 🆓 Open-source Tools
    - 4.2.1 📈 Prometheus
    - 4.2.2 🚦 Nagios
    - 4.2.3 🖥 Zabbix
    - 4.2.4 📊 Grafana LGTM Stack (Loki, Grafana, Tempo, Mimir)
    - 4.2.5 📂 ELK Stack (Elasticsearch, Logstash, Kibana)  
-4.3 💼 Commercial Tools
+- 4.3 💼 Commercial Tools
    - 4.3.1 🛡 AWS CloudWatch
    - 4.3.2 🔍 Microsoft Azure Monitor
    - 4.3.3 🌐 Google Cloud Monitoring
    - 4.3.4 📊 Datadog
    - 4.3.5 🌐 SolarWinds
-4.4 ⚖️ Comparison of Tools  
+- 4.4 ⚖️ Comparison of Tools  
 
 ## 📊 Chapter 5: Case Studies
 5.1 🖥 Implementation of Network Monitoring in AWS  
