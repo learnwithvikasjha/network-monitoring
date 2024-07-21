@@ -4,10 +4,10 @@
 A summary of the thesis, highlighting the importance of network monitoring in cloud environments, the tools analyzed, and the key findings and conclusions.
 
 ## 🏁 Chapter 1: Introduction
-1.1 🎯 Background
-1.2 🌟 Importance of Network Monitoring in Cloud Computing
-1.3 📝 Objectives of the Thesis
-1.4 📑 Structure of the Thesis
+1.1 🎯 Background  
+1.2 🌟 Importance of Network Monitoring in Cloud Computing  
+1.3 📝 Objectives of the Thesis  
+1.4 📑 Structure of the Thesis  
 
 ## 📖 Chapter 2: Literature Review
 2.1 🗂 Overview of Network Monitoring  
