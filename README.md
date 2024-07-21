@@ -57,7 +57,7 @@ A summary of the thesis, highlighting the importance of network monitoring in cl
 7.4 🔬 Areas for Further Research  
 
 ## ✅ Chapter 8: Conclusion
-8.1 📋 Summary of Findings  
+8.1 📋 [Summary of Findings](https://github.com/learnwithvikasjha/network-monitoring/blob/main/Chapter%208:%20Conclusion/Summary%20of%20Findings.md)
 8.2 💡 Contributions of the Thesis  
 8.3 🚧 Limitations of the Study  
 8.4 🏁 Final Thoughts and Recommendations  
