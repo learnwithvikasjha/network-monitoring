@@ -28,7 +28,7 @@ A summary of the thesis, highlighting the importance of network monitoring in cl
    - 4.2.2 🚦 Nagios
    - 4.2.3 🖥 Zabbix
    - 4.2.4 📊 Grafana LGTM Stack (Loki, Grafana, Tempo, Mimir)
-   - 4.2.5 📂 ELK Stack (Elasticsearch, Logstash, Kibana)
+   - 4.2.5 📂 ELK Stack (Elasticsearch, Logstash, Kibana)  
 4.3 💼 Commercial Tools
    - 4.3.1 🛡 AWS CloudWatch
    - 4.3.2 🔍 Microsoft Azure Monitor
